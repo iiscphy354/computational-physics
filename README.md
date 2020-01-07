@@ -65,10 +65,10 @@ Will be uploaded
 
 
 ### Contact
-1. [Prof. Prateek Sharma](http://www.physics.iisc.ernet.in/~prateek/)
+1. [Prof. Prateek Sharma](http://www.physics.iisc.ernet.in/~prateek/); 
    Course Instructor
-2. [Prof. Manish Jain](http://www.physics.iisc.ernet.in/~mjain/)
+2. [Prof. Manish Jain](http://www.physics.iisc.ernet.in/~mjain/); 
    Course Instructor
-3. Sanat Gogoi
+3. Sanat Gogoi; 
    TA
 
