@@ -44,7 +44,7 @@ Types of partial differential equations: Hyperbolic, parabolic and elliptic; Bou
 Siedel Method; Initial value problems: FTCS method; Numerical stability; Implicit and Crank-Nicolson methods; Spectral methods;
 ```
 
-### Textbooks:
+### Textbooks
 1. Mark Newman, *Computational Physics*, CreateSpace Independent Publishing Platform
 (2013).
 2. Forman Acton, *Real computing made real: Preventing Errors in Scientific and Engineering Calculations*, Dover Publications.
@@ -52,6 +52,8 @@ Siedel Method; Initial value problems: FTCS method; Numerical stability; Implici
 4. William H. Press, Saul A. Teukolsky, William T. Vetterling and Brian P. Flannery,
 *Numerical Recipes 3rd Edition: The Art of Scientific Computing*
 
+### Lecture Notes
+Will be uploaded
 
 ### Homeworks
 1. Homework set 1 is uploaded on 8th Jan. 2020; due on 20th Jan. 2020.
