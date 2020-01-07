@@ -44,11 +44,20 @@ Types of partial differential equations: Hyperbolic, parabolic and elliptic; Bou
 Siedel Method; Initial value problems: FTCS method; Numerical stability; Implicit and Crank-Nicolson methods; Spectral methods;
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Homeworks
+1. Homework set 1 is uploaded on 8th Jan. 2020; due on 20th Jan. 2020.
+   Click [here](https://github.com/iiscphy354/computational-physics/blob/master/HW1.pdf) to download.
 
 
 
 
-### Support or Contact
 
+
+### Contact
+1. [Prof. Prateek Sharma](http://www.physics.iisc.ernet.in/~prateek/)
+   Course Instructor
+2. [Prof. Manish Jain](http://www.physics.iisc.ernet.in/~mjain/)
+   Course Instructor
+3. Sanat Gogoi
+   TA
 
