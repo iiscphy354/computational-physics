@@ -1,8 +1,8 @@
 ## Welcome to Computational Physics PHY 354
 
-You can use the [editor on GitHub](https://github.com/iiscphy354/computational-physics/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is a very hands-on course which will involve a lot of programming assignments. The main aims of the course are two fold:
+1. Learning basic methods, tools and techniques of computational physics.
+2. Developing practical computational problem solving skills.
 
 ### Markdown
 
