@@ -6,7 +6,7 @@ This is a very hands-on course which will involve a lot of programming assignmen
 
 ### Syllabus
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The syllabus can be downloaded from [here](https://github.com/iiscphy354/computational-physics/blob/master/Course_syllabus.pdf).
 
 ```markdown
 **1. Introduction to computational physics, computer architecture overview, tools of computational physics (3 hours)**
