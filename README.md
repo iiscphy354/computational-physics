@@ -53,7 +53,9 @@ Siedel Method; Initial value problems: FTCS method; Numerical stability; Implici
 *Numerical Recipes 3rd Edition: The Art of Scientific Computing*
 
 ### Lecture Notes
-Will be uploaded
+The lecture notes will be uploaded after the clases.
+
+**There are similar lecture notes available in [Prof. Prateek Sharma](http://www.physics.iisc.ernet.in/~prateek/numerical_analysis/)'s webpage and [Prof Manish Jain](http://www.physics.iisc.ernet.in/~mjain/pages/teaching.html)'s webpage.**
 
 ### Grading Policy
 1. No Exam !!!
