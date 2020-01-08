@@ -63,7 +63,12 @@ Will be uploaded
 4. Stand alone project – which you have to get working and submit a working code and report. 
 Also, make a presentation on it at the end of the course.
 5. Projects can start right away.
+
 ### Homeworks
+Homeworks will be uploaded here periodically. There will be descent amount of time to submit the homeworks in time.
+
+**For every day you are late (unless informed prior to submission) 25% of the marks will be deducted. After 4 days there wont't be any credit for the homework.**
+
 1. Homework set 1 is uploaded on 8th Jan. 2020; due on 20th Jan. 2020.
    Click [here](https://github.com/iiscphy354/computational-physics/blob/master/HW1.pdf) to download.
 
