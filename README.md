@@ -55,6 +55,14 @@ Siedel Method; Initial value problems: FTCS method; Numerical stability; Implici
 ### Lecture Notes
 Will be uploaded
 
+### Grading Policy
+1. No Exam !!!
+2. There will be homeworks and projet. The grading policy is `50%` homework and `50%` project.
+3. Project will be decided by the student in consultation with the Masters/PhD/Bachelors advisor 
+– subject to the Instructors approval as well.
+4. Stand alone project – which you have to get working and submit a working code and report. 
+Also, make a presentation on it at the end of the course.
+5. Projects can start right away.
 ### Homeworks
 1. Homework set 1 is uploaded on 8th Jan. 2020; due on 20th Jan. 2020.
    Click [here](https://github.com/iiscphy354/computational-physics/blob/master/HW1.pdf) to download.
