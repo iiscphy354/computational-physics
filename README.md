@@ -55,7 +55,7 @@ Siedel Method; Initial value problems: FTCS method; Numerical stability; Implici
 ### Lecture Notes
 The lecture notes will be uploaded.
 
-**There are similar lecture notes available in [Prof. Prateek Sharma](http://www.physics.iisc.ernet.in/~prateek/numerical_analysis/)'s webpage and [Prof Manish Jain](http://www.physics.iisc.ernet.in/~mjain/pages/teaching.html)'s webpage.**
+**There are similar lecture notes available in [Prof. Prateek Sharma](http://www.physics.iisc.ernet.in/~prateek/numerical_analysis/)'s webpage and [Prof. Manish Jain](http://www.physics.iisc.ernet.in/~mjain/pages/teaching.html)'s webpage.**
 
 ### Grading Policy
 1. No Exam !!!
@@ -74,6 +74,7 @@ Homeworks will be uploaded here periodically. There will be decent amount of tim
 
 1. Homework set 1 is uploaded on 8th Jan. 2020; due on 20th Jan. 2020.
    Click [here](https://github.com/iiscphy354/computational-physics/blob/master/HW1.pdf) to download.
+   
    Additional files: [millikan.txt](https://raw.githubusercontent.com/iiscphy354/computational-physics/master/millikan.txt), 
    [stm.txt](https://raw.githubusercontent.com/iiscphy354/computational-physics/master/stm.txt), 
    [sunspots.txt](https://raw.githubusercontent.com/iiscphy354/computational-physics/master/sunspots.txt)
