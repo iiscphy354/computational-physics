@@ -74,6 +74,9 @@ Homeworks will be uploaded here periodically. There will be decent amount of tim
 
 1. Homework set 1 is uploaded on 8th Jan. 2020; due on 20th Jan. 2020.
    Click [here](https://github.com/iiscphy354/computational-physics/blob/master/HW1.pdf) to download.
+   Additional files: [millikan.txt](https://raw.githubusercontent.com/iiscphy354/computational-physics/master/millikan.txt), 
+   [stm.txt](https://raw.githubusercontent.com/iiscphy354/computational-physics/master/stm.txt), 
+   [sunspots.txt](https://raw.githubusercontent.com/iiscphy354/computational-physics/master/sunspots.txt)
 
 
 
