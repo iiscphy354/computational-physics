@@ -65,7 +65,7 @@ Also, make a presentation on it at the end of the course.
 5. Projects can start right away.
 
 ### Homeworks
-Homeworks will be uploaded here periodically. There will be descent amount of time to submit the homeworks in time.
+Homeworks will be uploaded here periodically. There will be decent amount of time to submit the homeworks in time.
 
 **There is a penalty for the late submission of the homeworks.** 
 *For every day you are late (unless informed prior to submission) `25%` of the marks will be deducted. After 4 days there wont't be any credit for the homework.*
