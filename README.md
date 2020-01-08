@@ -72,7 +72,7 @@ Homeworks will be uploaded here periodically. There will be decent amount of tim
 **There is a penalty for the late submission of the homeworks.** 
 *For every day you are late (unless informed prior to submission) `25%` of the marks will be deducted. After 4 days there wont't be any credit for the homework.*
 
-1. Homework set 1 is uploaded on 8th Jan. 2020; due on 20th Jan. 2020.
+1. Homework set 1 is uploaded on 8th January, 2020 ; due on 20th January, 2020.
    Click [here](https://github.com/iiscphy354/computational-physics/blob/master/HW1.pdf) to download.
    
    Additional files: [millikan.txt](https://raw.githubusercontent.com/iiscphy354/computational-physics/master/millikan.txt), 
