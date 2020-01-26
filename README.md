@@ -88,7 +88,7 @@ Homeworks will be uploaded here periodically. There will be decent amount of tim
 
    Additional files: [altitude.txt](https://github.com/iiscphy354/computational-physics/blob/master/altitude.txt),
    [stm.txt](https://github.com/iiscphy354/computational-physics/blob/master/stm.txt), 
-   [gaussxw.py](https://github.com/iiscphy354/computational-physics/blob/master/gaussxw.py)
+   [gaussxw.py](https://github.com/iiscphy354/computational-physics/blob/master/gaussxw.py),
    [velocities.txt](https://github.com/iiscphy354/computational-physics/blob/master/velocities.txt)
 
 
