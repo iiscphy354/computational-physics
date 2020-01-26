@@ -83,8 +83,13 @@ Homeworks will be uploaded here periodically. There will be decent amount of tim
    [stm.txt](https://raw.githubusercontent.com/iiscphy354/computational-physics/master/stm.txt), 
    [sunspots.txt](https://raw.githubusercontent.com/iiscphy354/computational-physics/master/sunspots.txt)
 
+2. Homework set 1 is uploaded on 26th January, 2020 ; due on 10th February, 2020.
+   Click [here](https://github.com/iiscphy354/computational-physics/blob/master/HW2.pdf) to download.
 
-
+   Additional files: [altitude.txt](https://github.com/iiscphy354/computational-physics/blob/master/altitude.txt),
+   [stm.txt](https://github.com/iiscphy354/computational-physics/blob/master/stm.txt), 
+   [gaussxw.py](https://github.com/iiscphy354/computational-physics/blob/master/gaussxw.py)
+   [velocities.txt](https://github.com/iiscphy354/computational-physics/blob/master/velocities.txt)
 
 
 
