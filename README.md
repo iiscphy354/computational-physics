@@ -98,7 +98,7 @@ Homeworks will be uploaded here periodically. There will be decent amount of tim
    [velocities.txt](https://github.com/iiscphy354/computational-physics/blob/master/velocities.txt)
   
 3. Homework set 3 is uploaded on 5th February, 2020 ; due on **24th February, 2020.**
-   Click [here](https://github.com/iiscphy354/computational-physics/blob/master/HW2.pdf) to download.
+   Click [here](https://github.com/iiscphy354/computational-physics/blob/master/HW3.pdf) to download.
 
 
 
