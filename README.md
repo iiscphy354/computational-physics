@@ -54,15 +54,17 @@ Siedel Method; Initial value problems: FTCS method; Numerical stability; Implici
 
 ### Lecture Notes
 
-1. [Lecture Note 1](https://github.com/iiscphy354/computational-physics/blob/master/lec1.pdf)
-2. [Lecture Note 2](https://github.com/iiscphy354/computational-physics/blob/master/Lec2.pdf)
-3. [Lecture Note 3](https://github.com/iiscphy354/computational-physics/blob/master/Lec3.pdf)
-4. [Lecture Note 4](https://github.com/iiscphy354/computational-physics/blob/master/Lec4.pdf)
-5. [Lecture Note 5](https://github.com/iiscphy354/computational-physics/blob/master/Lec5.pdf)
-6. [Lecture Note 6](https://github.com/iiscphy354/computational-physics/blob/master/Lec6.pdf)
-7. [Lecture Note 7](https://github.com/iiscphy354/computational-physics/blob/master/Lec7.pdf)
-8. [Lecture Note 8](https://github.com/iiscphy354/computational-physics/blob/master/Lec8.pdf)
-9. [Lecture Note 9](https://github.com/iiscphy354/computational-physics/blob/master/Lec_deriv.pdf)
+1.  [Lecture Note 1](https://github.com/iiscphy354/computational-physics/blob/master/lec1.pdf)
+2.  [Lecture Note 2](https://github.com/iiscphy354/computational-physics/blob/master/Lec2.pdf)
+3.  [Lecture Note 3](https://github.com/iiscphy354/computational-physics/blob/master/Lec3.pdf)
+4.  [Lecture Note 4](https://github.com/iiscphy354/computational-physics/blob/master/Lec4.pdf)
+5.  [Lecture Note 5](https://github.com/iiscphy354/computational-physics/blob/master/Lec5.pdf)
+6.  [Lecture Note 6](https://github.com/iiscphy354/computational-physics/blob/master/Lec6.pdf)
+7.  [Lecture Note 7](https://github.com/iiscphy354/computational-physics/blob/master/Lec7.pdf)
+8.  [Lecture Note 8](https://github.com/iiscphy354/computational-physics/blob/master/Lec8.pdf)
+9.  [Lecture Note 9](https://github.com/iiscphy354/computational-physics/blob/master/Lec_deriv.pdf)
+10. [Lecture Note 10](https://github.com/iiscphy354/computational-physics/blob/master/Lec10_ps.pdf)
+11. [Lecture Note 11](https://github.com/iiscphy354/computational-physics/blob/master/Lec11_ps.pdf)
 
 
 **There are similar lecture notes available in [Prof. Prateek Sharma](http://www.physics.iisc.ernet.in/~prateek/numerical_analysis/)'s webpage and [Prof. Manish Jain](http://www.physics.iisc.ernet.in/~mjain/pages/teaching.html)'s webpage.**
