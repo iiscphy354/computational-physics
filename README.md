@@ -79,6 +79,7 @@ Siedel Method; Initial value problems: FTCS method; Numerical stability; Implici
 4. Stand alone project – which you have to get working and submit a working code and report. 
 Also, make a presentation on it at the end of the course.
 5. Projects can start right away.
+6. Fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSctryH59M0CnUrANmlk7TtrTKaTQHK3JcTsYEoeGV1Qh6iiIg/viewform?usp=sf_link) for the projrct details.
 
 ### Homeworks
 Homeworks will be uploaded here periodically. There will be decent amount of time to submit the homeworks in time.
