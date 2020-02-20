@@ -65,6 +65,8 @@ Siedel Method; Initial value problems: FTCS method; Numerical stability; Implici
 9.  [Lecture Note 9](https://github.com/iiscphy354/computational-physics/blob/master/Lec_deriv.pdf)
 10. [Lecture Note 10](https://github.com/iiscphy354/computational-physics/blob/master/Lec10_ps.pdf)
 11. [Lecture Note 11](https://github.com/iiscphy354/computational-physics/blob/master/Lec11_ps.pdf)
+12. [Lecture Note 12](https://github.com/iiscphy354/computational-physics/blob/master/Lec16_ps.pdf)
+13. [Lecture Note 13](https://github.com/iiscphy354/computational-physics/blob/master/Lec17_ps.pdf)
 
 
 **There are similar lecture notes available in [Prof. Prateek Sharma](http://www.physics.iisc.ernet.in/~prateek/numerical_analysis/)'s webpage and [Prof. Manish Jain](http://www.physics.iisc.ernet.in/~mjain/pages/teaching.html)'s webpage.**
@@ -101,6 +103,10 @@ Homeworks will be uploaded here periodically. There will be decent amount of tim
   
 3. Homework set 3 is uploaded on 5th February, 2020 ; due on **24th February, 2020.**
    Click [here](https://github.com/iiscphy354/computational-physics/blob/master/HW3.pdf) to download.
+  
+4. Homework set 4 is uploaded on 20th February, 2020 ; due on **4th March, 2020.**
+   click [here](https://github.com/iiscphy354/computational-physics/blob/master/HW4.zip)to download.
+   
 
 
 
