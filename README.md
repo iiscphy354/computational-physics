@@ -107,7 +107,7 @@ Homeworks will be uploaded here periodically. There will be decent amount of tim
 3. Homework set 3 is uploaded on 5th February, 2020 ; due on **24th February, 2020.**
    Click [here](https://github.com/iiscphy354/computational-physics/blob/master/HW3.pdf) to download.
   
-4. Homework set 4 is uploaded on 20th February, 2020 ; due on **4th March, 2020.**
+4. Homework set 4 is uploaded on 20th February, 2020 ; due on **9th March, 2020.**
    click [here](https://github.com/iiscphy354/computational-physics/blob/master/HW4.zip)to download.
    
 
