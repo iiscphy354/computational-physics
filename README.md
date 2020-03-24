@@ -71,8 +71,10 @@ Siedel Method; Initial value problems: FTCS method; Numerical stability; Implici
 15. [Lecture Note 15](https://github.com/iiscphy354/computational-physics/blob/master/Lec19_ps.pdf)
 16. [Lecture Note 16](https://github.com/iiscphy354/computational-physics/blob/master/Lec19.5_ps.pdf)
 17. [Lecture Note 17](https://github.com/iiscphy354/computational-physics/blob/master/Lec20_ps.pdf)
-17. [Lecture Note 18](https://github.com/iiscphy354/computational-physics/blob/master/Lec21_ps.pdf)
-17. [Lecture Note 19](https://github.com/iiscphy354/computational-physics/blob/master/Lec22_ps.pdf)
+18. [Lecture Note 18](https://github.com/iiscphy354/computational-physics/blob/master/Lec21_ps.pdf)
+19. [Lecture Note 19](https://github.com/iiscphy354/computational-physics/blob/master/Lec22_ps.pdf)
+20. [Lecture Note 20](https://github.com/iiscphy354/computational-physics/blob/master/Lecture_note_20.pdf)
+21. [Lecture Note 21](https://github.com/iiscphy354/computational-physics/blob/master/Lecture_note_21.pdf)
 
 **There are similar lecture notes available in [Prof. Prateek Sharma](http://www.physics.iisc.ernet.in/~prateek/numerical_analysis/)'s webpage and [Prof. Manish Jain](http://www.physics.iisc.ernet.in/~mjain/pages/teaching.html)'s webpage.**
 
