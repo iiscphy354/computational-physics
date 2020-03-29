@@ -119,8 +119,10 @@ Homeworks will be uploaded here periodically. There will be decent amount of tim
    click [here](https://github.com/iiscphy354/computational-physics/blob/master/HW5.pdf) to download.
 
 6. Homework set 6 is uploaded on 12th March, 2020 ; due on **1st April, 2020.**
-   click [here](https://github.com/iiscphy354/computational-physics/blob/master/HW6_updated.pdf) to download.
-   Note: Question 5 has been modified slightly. (Updated on Mar 26th)
+   click [here](https://github.com/iiscphy354/computational-physics/blob/master/HW6_update_2.pdf) to download.
+   
+   Note: A. Question 5 has been modified slightly. (Updated on Mar 26th)
+         B. Updated on 29th March
    
    Additional file: [dcst.py](https://github.com/iiscphy354/computational-physics/blob/master/dcst.py)
    
