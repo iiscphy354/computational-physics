@@ -125,6 +125,8 @@ Homeworks will be uploaded here periodically. There will be decent amount of tim
          B. Updated on 29th March
    
    Additional file: [dcst.py](https://github.com/iiscphy354/computational-physics/blob/master/dcst.py)
+7. Homework set 6 is uploaded on 6th April, 2020 ; due on **20th April, 2020.**
+   click [here](https://github.com/iiscphy354/computational-physics/blob/master/HW7.pdf) to download.
    
 
 
